@@ -1,0 +1,134 @@
+.container{
+    padding: 30px;
+}
+
+.logot{
+    
+    margin-left: 40px;
+}
+
+.logo{
+    margin-top: 10px;
+    padding-right: 0;
+    height: 35px;
+    width: 35px;
+}
+
+.title{
+    background-color: antiquewhite;
+}
+
+.skoda1{
+    padding-top: 30px;
+    padding-right: 0;
+}
+
+.skoda{
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 0;
+}
+
+
+.text{
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+    font-size: .9rem;
+    padding-right: 0;
+}
+
+.img{
+    padding-top: 5px;
+    height: 125px;
+    width: 250px;
+}
+
+.para{
+    background-color: green;
+    display: inline-block;
+}
+
+.web{
+    line-height: 0;
+    color: green;
+    font-size: 1rem;
+
+}
+
+.content{
+    background-color: #333333;
+}
+
+.image{
+    padding-left: 0;
+}
+
+.icon{
+    height: 50px;
+    width: 70px;
+    margin-top: -50px;
+}
+
+.banner_close{
+    margin-top: 50px;
+    padding-left: 10px;
+    display: inline;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.banner2{
+    background-color: #333333;
+    border-left: 40px solid white;
+    width: 60%;
+}
+
+h2{
+    color: white;
+}
+
+h5{
+    color: white;
+}
+
+.blogo{
+    border-left: 40px solid white;
+    padding-bottom: 10px;
+    width: 60%;
+}
+
+
+.skoda2{
+    font-size: x-large;
+    position: relative;
+    top: 10px;
+}
+
+.bot{
+    float: right;
+    position: relative;
+    top: 23px;
+}
+
+.car{
+    width: 90%;
+}
+
+.icon1{
+    position: relative;
+    right: 110px;
+}
+
+.iconb{
+    color: white;
+    line-height: 0;
+    position: relative;
+    left: 60px;
+    bottom: 30px;
+}
+
+.web1{
+    color: green;
+}
